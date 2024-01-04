@@ -1,6 +1,7 @@
 import Home from './components/Home';
-import './App.css';
+
 import bgImage from "./images/backgroundImage.jpg"
+import './App.css';
 
 function App() {
   const myStyle = { 
